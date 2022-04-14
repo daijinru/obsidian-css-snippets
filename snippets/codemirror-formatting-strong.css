@@ -1,0 +1,9 @@
+.cm-strong:not(.cm-formatting) {
+  display: inline-block;
+  padding: 0 4px;
+}
+
+.cm-strong.cm-formatting {
+  color: rgba(136, 136, 136, .6);
+  font-weight: 100;
+}

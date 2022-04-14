@@ -1,0 +1,9 @@
+.cm-highlight:not(.cm-formatting) {
+  display: inline-block;
+  padding: 0 4px;
+}
+
+.cm-s-obsidian span.cm-formatting-highlight {
+  background-color: transparent;
+  color: rgba(136, 136, 136, .6);
+}
